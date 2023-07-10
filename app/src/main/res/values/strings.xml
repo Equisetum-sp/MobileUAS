@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UAS2</string>
+    <string name="appname">Super Fashion</string>
+    <string name="emailaddress">Email Address</string>
+    <string name="password">Password</string>
+    <string name="wrongpw">User ID or password is wrong</string>
+    <string name="login">Login</string>
+</resources>
